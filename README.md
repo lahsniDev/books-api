@@ -1,1 +1,1 @@
-expose a books API developed with the symfony framework and sqlite without using FOSRestBundle
+expose a books API developed with the symfony 4.4 framework and sqlite without using FOSRestBundle
